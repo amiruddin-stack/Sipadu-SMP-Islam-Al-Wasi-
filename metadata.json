@@ -1,0 +1,6 @@
+{
+  "name": "Smart Teacher",
+  "description": "Aplikasi cerdas untuk guru mengelola absensi harian dan nilai siswa secara otomatis, dilengkapi analisis capaian, deteksi remedial, dan narasi rapor otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
